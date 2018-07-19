@@ -1,4 +1,4 @@
-# lightgbm
+# lightgbm上线
 
 这里是lightgbm如何在线上读取模型的例子。
 下面是读取的lightgbm的模型格式（json格式）
